@@ -1,0 +1,33 @@
+body {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 5px;
+}
+
+button {
+    padding: 10px 15px;
+}
+
+input {
+    width: 155px;
+    padding: 10px;
+}
+
+#display {
+    text-align: right;
+}
+
+#Limpar {
+    width: 177px;
+    padding: 10px;
+}
+
+#ponto {
+    padding-right: 17px;
+    
+}
+
+#adicao {
+    padding-left: 12px;
+}
